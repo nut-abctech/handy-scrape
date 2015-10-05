@@ -1,0 +1,15 @@
+{
+    "title": "test-data",
+    "url": "http://www.xn--72cf3a2bya5bzcff3t.com",
+    "getURL": "/search-list.php?s_list_id=999&s_cat_id=1&search_txt=&action=search_head&page=",
+    "routes": {
+        "entry": "//tr[@href]",
+        "attributes": {
+            "link": "@href",
+            "name": "td[2]/div[1]",
+            "contactNO": "td[2]/div[3]",
+            "detail": "td[2]/div[2]",
+            "location": "td[4]"
+        }
+    }
+}
