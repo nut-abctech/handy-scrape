@@ -1,0 +1,21 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"path": "golang.org/x/net/html",
+			"revision": "01256db42e5106196a3473ec1620727a383500e8",
+			"revisionTime": "2015-10-02T11:57:39+10:00"
+		},
+		{
+			"path": "golang.org/x/net/html/atom",
+			"revision": "01256db42e5106196a3473ec1620727a383500e8",
+			"revisionTime": "2015-10-02T11:57:39+10:00"
+		},
+		{
+			"path": "gopkg.in/xmlpath.v2",
+			"revision": "860cbeca3ebcc600db0b213c0e83ad6ce91f5739",
+			"revisionTime": "2015-08-20T17:48:37-03:00"
+		}
+	]
+}

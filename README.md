@@ -1,0 +1,6 @@
+#How to setup ENV.
+### GVM
+...
+### govendor + GO15VENDOREXPERIMENT=1
+...
+
